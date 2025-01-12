@@ -378,6 +378,9 @@ genanki.Package(chinese_sentences_deck).write_to_file('chinese_sentences.apkg')
 ```
 
 ## Conclusion
-This blog demonstrates the power of AI in language learning. By employing a combination of NLP tools, sentence embedding models, and LLMs like Qwen/QwQ-32B-Preview, we are able to automate many aspects of the deck creation process, from sentence selection and deduplication to machine translation and Pinyin generation.
+This blog demonstrates the power of AI in language learning. By employing a combination of NLP tools, sentence embedding models, and LLMs like `Qwen/QwQ-32B-Preview`, we are able to automate many aspects of the deck creation process, from sentence selection and deduplication to machine translation and Pinyin generation.
 
-This not only significantly reduces the manual effort involved but also ensures a high-quality and personalized learning experience. Furthermore, we can easily adapt this method to other languages.
+This significantly reduces the manual effort involved and we can easily adapt this method to other languages.
+
+## Disclaimer
+This blog was written with the help of Gemini.
